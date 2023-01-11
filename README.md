@@ -10,7 +10,7 @@ If you have any questions feel free to contact me:
   <br>
 iankwiatko@gmail.com
   <br>
-or message me on LinkedIn
+or
   <br>
 <a href="https://www.linkedin.com/in/iankwaitko">Message me on LinkedIn</a>
 
