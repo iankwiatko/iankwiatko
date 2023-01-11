@@ -21,4 +21,4 @@ or
 
 - [Directory CleanUp Program](https://github.com/iankwiatko/Clean-Up-Tool)
 - [Super Block Fall](https://github.com/iankwiatko/Super-Block-Fall)
-- [Super Block Fall](https://github.com/iankwiatko/Idle-Folktales)
+- [Idle Folktales](https://github.com/iankwiatko/Idle-Folktales)
