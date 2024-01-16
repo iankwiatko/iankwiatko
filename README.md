@@ -15,10 +15,11 @@ or
 
 <h2>Currently working on:</h2>
 
-- [Image Recognition Script](https://github.com/iankwiatko/Human-Recognition-Software)
+- [Vette](https://github.com/iankwiatko/Vette)
 
 <h2>Other notable projects:</h2>
 
+- [Mobility.AI](https://github.com/iankwiatko/Human-Recognition-Software)
 - [Directory CleanUp Program](https://github.com/iankwiatko/Clean-Up-Tool)
 - [Super Block Fall](https://github.com/iankwiatko/Super-Block-Fall)
 - [Idle Folktales](https://github.com/iankwiatko/Idle-Folktales)
