@@ -1,6 +1,5 @@
 <h1>Hi, I'm Ian! <br/></h1>
-I am a current student at OSU in the Class of 2024, studying software engineering.
-I am currently looking for a full-time position, and have experince with Java, C++ and HTML along with a few other languages.
+I am a current fourth-year student studying Software Engineering at The Ohio State University, with hands-on experience in full-stack agile web development using Java, Ruby on Rails, and other industry-standard tools. I’ve worked on diverse projects, including modernizing internal systems, optimizing APIs that handle thousands of daily requests, and creating databases that hold crucial information. In my free time, I also enjoy working on coding projects of all sorts, from creating small indie games using Python, to making web-apps that help solve problems!
 This page contains some of my projects, both personal and some that have been implemented in a buisness enviornment.
   <br>
   <br>
@@ -15,7 +14,7 @@ or
 
 <h2>Currently working on:</h2>
 
-- [Vette](https://github.com/iankwiatko/Vette)
+- [ColumbusConnect](https://github.com/iankwiatko/ColumbusConnect)
 
 <h2>Other notable projects:</h2>
 
