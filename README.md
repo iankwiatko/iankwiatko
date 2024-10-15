@@ -14,7 +14,7 @@ or
 
 <h2>Currently working on:</h2>
 
-- [ColumbusConnect](https://github.com/iankwiatko/ColumbusConnect)
+- [ColumbusConnect - Private Repo For Now](https://github.com/iankwiatko/ColumbusConnect)
 
 <h2>Other notable projects:</h2>
 
