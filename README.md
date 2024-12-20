@@ -20,6 +20,7 @@ or
 <h2>Other previous projects:</h2>
 
 - [RidePare](https://github.com/iankwiatko/RidePare)
+- [ScheduleMaster](https://github.com/iankwiatko/ScheduleMaster)
 - [Mobility.AI](https://github.com/iankwiatko/Human-Recognition-Software)
 - [Directory CleanUp Program](https://github.com/iankwiatko/Clean-Up-Tool)
 - [Super Block Fall](https://github.com/iankwiatko/Super-Block-Fall)
